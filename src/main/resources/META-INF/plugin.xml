@@ -1,8 +1,8 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>org.jetbrains.plugins.template</id>
+    <id>com.github.GDcheerios.theme</id>
     <name>GDcheerios Theme</name>
-    <vendor>JetBrains</vendor>
+    <vendor>GDcheerios</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 

@@ -2,17 +2,31 @@
   "name": "GDcheerios Theme",
   "author": "GDcheerios",
   "dark": true,
-  "editorScheme": "/GDcheerios Theme.xml",
+  "editorScheme": "/GDcheerios_theme.xml",
   "colors": {
     "bg": "#101314",
     "fg": "#ffffff",
     "codebg": "#010101",
-    "codefg": "#ffffff"
+    "codefg": "#ffffff",
+    "text": "#ffffff",
+    "accent": "#942633"
   },
   "ui": {
     "*": {
       "background": "bg",
       "foreground": "fg"
+    },
+    "FileColor": {
+      "Blue": "accent",
+      "Gray": "accent",
+      "Green": "accent",
+      "Orange": "accent",
+      "Rose": "accent",
+      "Violet": "accent",
+      "Yellow": "accent"
+    },
+    "EditorTabs": {
+      "underlineColor": "accent"
     }
   }
 }
