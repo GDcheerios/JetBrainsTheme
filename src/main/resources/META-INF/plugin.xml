@@ -3,6 +3,9 @@
     <id>com.github.GDcheerios.theme</id>
     <name>GDcheerios Theme</name>
     <vendor>GDcheerios</vendor>
+    <description>
+        This is the GDcheerios theme. Mostly only used for fitting the color scheme of my devices.
+    </description>
 
     <depends>com.intellij.modules.platform</depends>
 
